@@ -55,9 +55,9 @@ The main objective was to identify key churn drivers, understand customer behavi
 4. Navigate between the 3 pages using the tabs at the bottom
 
 ## Files Included
-- `Telco Customer Churn Analysis.pbix` ← Main Power BI file
-- `WA_Fn-UseC_-Telco-Customer-Churn.csv` ← Original dataset
-- `/Screenshots/` folder containing dashboard images
+- `dashboard/Telco Dashboard.pbix` ← Main Power BI file
+- `raw-data/WA_Fn-UseC_-Telco-Customer-Churn.csv` ← Original dataset
+- `/visuals/` folder containing dashboard images
 - `README.md`
 
 ## Skills Demonstrated
